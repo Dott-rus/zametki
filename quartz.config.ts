@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "ru-RU",
+    baseUrl: "notes.somedott.space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -31,24 +31,24 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          gray: "#808080",
+          darkgray: "#636363",
+          dark: "#222034",
+          secondary: "#d95763",
+          tertiary: "#f5f5dc",
+          highlight: "rgba(0,0,0,0.06)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#222",            // фон страницы (body background)
+          lightgray: "#222034",     // блоки / панели (thoughts-field)
+          gray: "#80808055",        // прозрачные бордеры / нейтраль
+          darkgray: "#ffffff",      // второстепенный текст / подчёркивания
+          dark: "#ffffff",          // заголовки / основной текст — белый
+          secondary: "#d95763",     // акцент (statuscafe)
+          tertiary: "#f5f5dc",      // hover ссылок (бежевый из CSS — контрастный)
+          highlight: "rgba(0,0,0,0.45)",  // градиентные накладки из about/music fields
+          textHighlight: "#b3aa0288"
         },
       },
     },
