@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-15T23:59:34.882+03:00","modified":"2025-09-16T00:02:17.272+03:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T23:59:34.882+03:00","modified":"2025-09-16T00:15:09.794+03:00","cssclasses":""}
 ---
 
 Да, я прямо запарился над ней...
@@ -46,3 +46,7 @@ plt.xlabel('X Axis', labelpad=10)
 plt.ylabel('Y Axis', labelpad=10)
 plt.show()
 ```
+
+Вот выхлоп, для особо интересующихся (картинки, само собой не будет ^_^ )
+
+![[Другое/Python/matplotlib/output.png]]
