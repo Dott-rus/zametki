@@ -30,7 +30,7 @@ export default ((opts?: Options) => {
             width="20"
             height="20"
             style={{ verticalAlign: "middle", display: "inline-block", marginLeft: "0.2em" }}
-          />c
+          />
         </span>
         <span style={{ color: "gray" }}>
           *если не указано иное (или указан иной источник и его лицензия, проще говоря: Если есть источник, то ищите лицензию там)..
