@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-11T23:31:06.821+03:00","modified":"2025-09-14T20:06:25.871+03:00","cssclasses":""}
+{"publish":true,"created":"2025-09-14T20:06:25.871+03:00","modified":"2025-09-15T13:30:56.550+03:00","cssclasses":""}
 ---
 
 <center>Привет! Добро пожаловать в мои заметки</center>
@@ -8,6 +8,7 @@
 [[Как выбрать идеальный никнейм для любой платформы]] или [[Идеальная система (Установка Windows)]]
 
 Ах, да... я начал изучение TouchDesigner'a так что я тут создал [[TouchDesigner/101 по Touch Designer\|заметку]] насчёт него!
+<br>
 Made by Dott with 💖
 
 Мой текст на ВСЕХ страницах  <a href="https://notes.somedott.space">Zametki</a> © (В 2025 году сделаны <a href="https://somedott.space">Dott</a>ом ) лицензированны под <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
