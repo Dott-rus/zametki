@@ -18,19 +18,19 @@ export default ((opts?: Options) => {
           <a href="https://somedott.space">Dott</a>, лицензия{" "}
           <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
           <img
-            src="/static/cc.svg"
+            src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
             alt="Creative Commons CC Icon"
             width="20"
             height="20"
             style={{ verticalAlign: "middle", display: "inline-block", marginLeft: "0.2em" }}
           />
           <img
-            src="/static/by.svg"
+            src="https://mirrors.creativecommons.org/presskit/icons/by.svg"
             alt="Creative Commons BY Icon"
             width="20"
             height="20"
             style={{ verticalAlign: "middle", display: "inline-block", marginLeft: "0.2em" }}
-          />
+          />,если не указано иное (или указан иной источник и его лицензия, проще говоря: Если есть источник, то ищите лицензию там).
         </p>
         <span style={{ color: "gray" }}>
           Пожалуйста, указывайте авторство, если это возможно. Если оно опущено без необходимости — я могу связаться для уточнения.
