@@ -13,10 +13,10 @@ export default ((opts?: Options) => {
 
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
+        <span>
           <a href="https://notes.somedott.space">Zametki</a> © {year}{" "}
           <a href="https://somedott.space">Dott</a>, лицензия{" "}
-          <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+          <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0*</a>
           <img
             src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"
             alt="Creative Commons CC Icon"
@@ -30,8 +30,11 @@ export default ((opts?: Options) => {
             width="20"
             height="20"
             style={{ verticalAlign: "middle", display: "inline-block", marginLeft: "0.2em" }}
-          />,если не указано иное (или указан иной источник и его лицензия, проще говоря: Если есть источник, то ищите лицензию там).
-        </p>
+          />c
+        </span>
+        <span style={{ color: "gray" }}>
+          *если не указано иное (или указан иной источник и его лицензия, проще говоря: Если есть источник, то ищите лицензию там)..
+        </span>        
         <span style={{ color: "gray" }}>
           Пожалуйста, указывайте авторство, если это возможно. Если оно опущено без необходимости — я могу связаться для уточнения.
         </span>
