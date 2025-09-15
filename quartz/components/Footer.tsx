@@ -24,6 +24,25 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <a href="https://notes.somedott.space">Zametki</a> © {year} <a href="https://somedott.space">Dott</a>, лицензия <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+    <img
+      src="/static/cc.svg"
+      alt="Creative Commons CC Icon"
+      width="20"
+      height="20"
+      style={{ verticalAlign: "middle", display: "inline-block", marginLeft: "0.2em" }}
+    />
+    <img
+      src="/static/by.svg"
+      alt="Creative Commons BY Icon"
+      width="20"
+      height="20"
+      style={{ verticalAlign: "middle", display: "inline-block", marginLeft: "0.2em" }}
+    />
+  </p>
+  <span style={{ color: "gray" }}>
+    Пожалуйста, указывайте авторство, если это возможно. Если оно опущено без необходимости — я могу связаться для уточнения.
+  </span>
       </footer>
     )
   }
