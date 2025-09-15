@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: ['<a href="https://notes.somedott.space">Zametki</a> © 2025 <a href="https://somedott.space">Dott</a>. Содержимое доступно по лицензии <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>,если не указано иное (или указан иной источник и его лицензия, проще говоря: Если есть источник, то ищите лицензию там).<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="max-width:1em;max-height:1em;margin-left:.2em;"><br><span style="color: gray">Пожалуйста, указывайте авторство, если это возможно. Если оно опущено без необходимости — я могу связаться для уточнения.</span>'],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
