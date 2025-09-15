@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-11T23:31:06.821+03:00","modified":"2025-09-15T13:30:56.551+03:00","cssclasses":""}
+{"publish":true,"created":"2025-09-11T23:31:06.821+03:00","modified":"2025-09-15T21:52:04.343+03:00","cssclasses":""}
 ---
 
 <center>Привет! Добро пожаловать в мои заметки</center>
@@ -11,6 +11,5 @@
 <br>
 Made by Dott with 💖
 
-Мой текст на ВСЕХ страницах  <a href="https://notes.somedott.space">Zametki</a> © (В 2025 году сделаны <a href="https://somedott.space">Dott</a>ом ) лицензированны под <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<br>
-<span style="color: gray">Важно: если текст атрибуции не помещается в макет, вы можете не указывать меня как автора. Однако я оставляю за собой право уведомлять о нарушениях лицензии. Если я замечу, что есть возможность указать авторство, и оно не было указано, я свяжусь с вами!</a>
+
+<a href="https://notes.somedott.space">Zametki</a> © 2025 <a href="https://somedott.space">Dott</a>. Содержимое доступно по лицензии <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>,если не указано иное (или указан иной источник и его лицензия, проще говоря: Если есть источник, то ищите лицензию там).<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="max-width:1em;max-height:1em;margin-left:.2em;"><br><span style="color: gray">Пожалуйста, указывайте авторство, если это возможно. Если оно опущено без необходимости — я могу связаться для уточнения.</span>
