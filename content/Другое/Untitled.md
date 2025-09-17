@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Д о т т е р и к","created":"2025-09-17T20:18:05.743+03:00","modified":"2025-09-18T00:39:43.382+03:00","tags":["Entity/Player-Character","Multiverse/D&D"],"cssclasses":"hcl table t-c readable"}
+{"publish":true,"aliases":"Д о т т е р и к","created":"2025-09-17T20:18:05.743+03:00","modified":"2025-09-18T00:41:58.826+03:00","tags":["Entity/Player-Character","Multiverse/D&D"],"cssclasses":"hcl table t-c readable"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 | |
-|----|:---:|
+|----|---|
 | Класс | Магический мастеровой (Изобретатель) |
 | Уровень | 3 |
 | Раса | Человек |
