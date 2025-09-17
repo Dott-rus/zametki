@@ -1,8 +1,10 @@
 ---
-{"publish":true,"aliases":"Д о т т е р и к","created":"2025-09-17T20:18:05.743+03:00","modified":"2025-09-18T00:37:04.808+03:00","tags":["Entity/Player-Character","Multiverse/D&D"],"cssclasses":"hcl table t-c readable"}
+{"publish":true,"aliases":"Д о т т е р и к","created":"2025-09-17T20:18:05.743+03:00","modified":"2025-09-18T00:37:57.022+03:00","tags":["Entity/Player-Character","Multiverse/D&D"],"cssclasses":"hcl table t-c readable"}
 ---
 
+
 ![[Z - Other/assets/Перс для DND (Доттерик)x1000.gif]]
+
 
 | |
 |----|:---:|
@@ -11,6 +13,7 @@
 |**Раса** | Человек|
 |**Мировоззрение** | Хаотично-доброе|
 |**Предыстория** | Изобретатель / Мастер|
+
 
 ---
 
