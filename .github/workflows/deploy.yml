@@ -5,7 +5,7 @@ on:
     branches:
       - v4
 env:
-  THEME_NAME: minimal
+  THEME_NAME: its-theme # was minimal
 permissions:
   contents: read
   pages: write
