@@ -5,7 +5,7 @@ on:
     branches:
       - v4
 env:
-  THEME_NAME: its-theme # was minimal
+  THEME_NAME: adrenaline # was minimal , its-theme
 permissions:
   contents: read
   pages: write
