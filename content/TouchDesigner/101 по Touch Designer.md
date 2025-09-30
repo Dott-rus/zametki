@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-14T03:23:09.695+03:00","modified":"2025-09-14T03:23:09.695+03:00","cssclasses":""}
+{"publish":true,"created":"2025-09-13T15:49:57.019+03:00","modified":"2025-09-14T03:23:09.696+03:00","cssclasses":""}
 ---
 
 # 🌀 TouchDesigner — 101
