@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Д о т т е р и к","created":"2025-09-18T00:43:24.825+03:00","modified":"2025-09-18T09:44:32.888+03:00","tags":["Entity/Player-Character","Multiverse/D&D"],"cssclasses":"hcl table t-c readable"}
+{"publish":true,"aliases":"Д о т т е р и к","created":"2025-09-17T20:18:05.743+03:00","modified":"2025-09-18T09:44:32.889+03:00","tags":["Entity/Player-Character","Multiverse/D&D"],"cssclasses":"hcl table t-c readable"}
 ---
 
 
