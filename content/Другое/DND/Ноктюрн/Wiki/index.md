@@ -16,10 +16,10 @@
 		- **Вега**
 			- [[01. Bongo Cat - What Was I Made For_.mp3]]
 			- [[01. W&W - OIIA OIIA (Spinning Cat).mp3]]
-			- [[avatar.jpg]]
+			- [[bow_weapon.jpg]]
 			- [[ring.png]]
 		- **Ринто**
-			- [[photo_2025-10-04_23-34-48.jpg]]
+			- [[avatar_rinto.jpg]]
 - **Аномалии**
 	- [[Другое/DND/Ноктюрн/Wiki/index]]
 	- **Луна-like**
