@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-28T14:14:18.460+03:00","modified":"2025-10-19T04:52:58.722+03:00","cssclasses":""}
+{"publish":true,"created":"2025-09-28T14:14:18.460+03:00","modified":"2025-10-19T05:11:49.139+03:00","cssclasses":""}
 ---
 
 Ну вот и ссылки на всё
@@ -12,10 +12,10 @@
 		- **Вега**
 			- [[01. Bongo Cat - What Was I Made For_.mp3]]
 			- [[01. W&W - OIIA OIIA (Spinning Cat).mp3]]
-			- [[avatar.jpg]]
+			- [[bow_weapon.jpg]]
 			- [[ring.png]]
 		- **Ринто**
-			- [[photo_2025-10-04_23-34-48.jpg]]
+			- [[avatar_rinto.jpg]]
 - **Аномалии**
 	- [[Другое/DND/Ноктюрн/Wiki/index]]
 	- **Луна-like**
