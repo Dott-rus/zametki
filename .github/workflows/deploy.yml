@@ -5,7 +5,7 @@ on:
     branches:
       - v4
 env:
-  THEME_NAME: adrenaline # was minimal , its-theme
+  THEME_NAME: abecedarium # was minimal , its-theme, adrenaline
 permissions:
   contents: read
   pages: write
