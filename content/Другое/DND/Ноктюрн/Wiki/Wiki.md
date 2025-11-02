@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-28T14:14:18.460+03:00","modified":"2025-11-02T13:30:26.743+03:00","cssclasses":""}
+{"publish":true,"created":"2025-09-28T14:14:18.460+03:00","modified":"2025-11-02T13:31:50.778+03:00","cssclasses":""}
 ---
 
 Ну вот и ссылки на всё
@@ -15,7 +15,6 @@
 			- [[bow_weapon.jpg]]
 			- [[ring.png]]
 		- **Ринто**
-			- [[avatar_rinto.jpg]]
 - **Аномалии**
 	- [[Другое/DND/Ноктюрн/Wiki/index]]
 	- **Луна-like**
