@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"1979-12-31T00:00:00.000+03:00","modified":"2025-11-06T02:11:10.659+03:00","cssclasses":""}
+{"publish":true,"created":"2025-11-04T21:12:05.657+03:00","modified":"2025-11-06T02:11:10.000+03:00","cssclasses":""}
 ---
 
 # Community Notes (Заметки сообщества)
