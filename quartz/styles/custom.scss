@@ -1,3 +1,36 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* ===== Archived pages: hazard stripes on viewport sides ===== */
+body:has(article.archived)::before,
+body:has(article.archived)::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 20px;
+
+  /* yellow/black hazard stripes */
+  background: repeating-linear-gradient(
+    45deg,
+    #d9b502 0 12px,
+    #111 12px 24px
+  );
+
+  z-index: 9999;
+  pointer-events: none; /* чтобы не мешало кликам */
+  opacity: 0.9;
+}
+
+body:has(article.archived)::before { left: 0; }
+body:has(article.archived)::after  { right: 0; }
+
+/* На узких экранах сделаем уже, чтобы не раздражало */
+@media (max-width: 800px) {
+  body:has(article.archived)::before,
+  body:has(article.archived)::after {
+    width: 12px;
+    opacity: 0.75;
+  }
+}
